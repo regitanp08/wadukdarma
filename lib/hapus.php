@@ -1,5 +1,5 @@
 <?php
-include 'koneksi.php';
+include '../koneksi.php';
 
 $id_pemesanan = htmlentities($_GET['id_pemesanan']);
 
