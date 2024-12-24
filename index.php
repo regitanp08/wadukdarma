@@ -27,7 +27,7 @@
     <a href="#explore" class="teks">Explore</a> 
     <a href="#activity" class="teks">Activity</a> 
     <a class="text-black-700" href="pemesanan.php" class="teks">Pemesanan</a>
-    <a class="text-black-700" href="daftar.php" class="teks">Daftar</a>
+    <a class="text-black-700" href="main/daftar.php" class="teks">Daftar</a>
         </body>
         </html>
         </nav>

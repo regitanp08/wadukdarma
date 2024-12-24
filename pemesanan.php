@@ -24,6 +24,7 @@
           <a class="text-gray-700" href="index.php"> Explore </a>
           <a class="text-gray-700" href="index.php"> Activity </a>
           <a class="text-gray-700" href="index.php" class="teks">Pemesanan</a>
+		  <a class="text-black-700" href="main/daftar.php" class="teks">Daftar</a>
         </nav>
         
     </header>

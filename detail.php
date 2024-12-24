@@ -96,7 +96,7 @@ if(mysqli_num_rows($query)==0)
         </main>
 
         <footer>
-            <p>Wisata Jatigede © 2024.</p>
+            <p>Waduk Darma © 2024.</p>
         </footer>
     </div>
     <?php } ?>
